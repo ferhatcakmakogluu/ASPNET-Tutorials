@@ -1,0 +1,7 @@
+C:\Users\Ferhat Çakmakoğlu\source\repos\CSharpTutorials\Try\bin\Debug\Try.exe.config
+C:\Users\Ferhat Çakmakoğlu\source\repos\CSharpTutorials\Try\bin\Debug\Try.exe
+C:\Users\Ferhat Çakmakoğlu\source\repos\CSharpTutorials\Try\bin\Debug\Try.pdb
+C:\Users\Ferhat Çakmakoğlu\source\repos\CSharpTutorials\Try\obj\Debug\Try.csproj.AssemblyReference.cache
+C:\Users\Ferhat Çakmakoğlu\source\repos\CSharpTutorials\Try\obj\Debug\Try.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat Çakmakoğlu\source\repos\CSharpTutorials\Try\obj\Debug\Try.exe
+C:\Users\Ferhat Çakmakoğlu\source\repos\CSharpTutorials\Try\obj\Debug\Try.pdb

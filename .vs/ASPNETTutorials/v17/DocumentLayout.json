@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\csharptutorials\\collections\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|solutionrelative:collections\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\csharptutorials\\collections\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|solutionrelative:collections\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\csharptutorials\\collections\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|solutionrelative:collections\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\csharptutorials\\collections\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|solutionrelative:collections\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\csharptutorials\\collections\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|solutionrelative:collections\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\csharptutorials\\collections\\hashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|solutionrelative:collections\\hashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\csharptutorials\\collections\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B615DA-1017-4672-B765-1E2B20E3AE52}|Collections\\Collections.csproj|solutionrelative:collections\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 421,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\Stack.cs",
+              "RelativeDocumentMoniker": "Collections\\Stack.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\Stack.cs",
+              "RelativeToolTip": "Collections\\Stack.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:59:58.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\Queue.cs",
+              "RelativeDocumentMoniker": "Collections\\Queue.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\Queue.cs",
+              "RelativeToolTip": "Collections\\Queue.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:59:56.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\List.cs",
+              "RelativeDocumentMoniker": "Collections\\List.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\List.cs",
+              "RelativeToolTip": "Collections\\List.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:59:53.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HashTable.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\HashTable.cs",
+              "RelativeDocumentMoniker": "Collections\\HashTable.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\HashTable.cs",
+              "RelativeToolTip": "Collections\\HashTable.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:59:50.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HashSet.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\HashSet.cs",
+              "RelativeDocumentMoniker": "Collections\\HashSet.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\HashSet.cs",
+              "RelativeToolTip": "Collections\\HashSet.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:59:44.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\Dictionary.cs",
+              "RelativeDocumentMoniker": "Collections\\Dictionary.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\Dictionary.cs",
+              "RelativeToolTip": "Collections\\Dictionary.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:59:38.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\ArrayList.cs",
+              "RelativeDocumentMoniker": "Collections\\ArrayList.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\CSharpTutorials\\Collections\\ArrayList.cs",
+              "RelativeToolTip": "Collections\\ArrayList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:59:34.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
